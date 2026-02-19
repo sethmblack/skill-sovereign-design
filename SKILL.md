@@ -4,7 +4,7 @@ description: Design or evaluate governance structures by ensuring clear, undivid
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5020
+  version: 1.0.5021
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
